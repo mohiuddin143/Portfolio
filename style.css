@@ -1,3 +1,12 @@
+.section1{
+    display: flex;
+}
+small{
+    font-size: 22px;
+}
+#hello{
+    color: red;
+}
 .stay-in-touch {
     text-align: center;
     width: 100%;
