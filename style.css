@@ -1,0 +1,53 @@
+.stay-in-touch {
+    text-align: center;
+    width: 100%;
+    height: 300px;
+    background-color: #21201e;
+    color: white;
+    margin: 0px 0px 0px 0px;
+}
+
+.stay-in-touch h1 {
+    padding: 120px 50px 50px 50px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 80px;
+}
+
+footer {
+    border: 1px solid white;
+    background-color: #21201e;
+    font-size: 20px;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+}
+
+.social-link {
+    display: flex;
+    margin: 10px 40px;
+    text-decoration: none;
+}
+
+footer a {
+    text-align: center;
+}
+
+#linked-in {
+    width: 33%;
+    color: white;
+    text-decoration: none;
+}
+
+#facebook {
+    width: 33%;
+    color: white;
+    text-decoration: none;
+}
+
+#instagram {
+    width: 33%;
+    color: white;
+    text-decoration: none;
+}
